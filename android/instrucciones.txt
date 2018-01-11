@@ -1,0 +1,47 @@
+WORK IN PROGRESS, básicamente he chapuceado con el pwabuilder hasta llegar a esto, no he podido automatizar más
+
+
+Para generar una nueva:
+
+Copiar aplicacion de travelc
+Cambiar online.travelcompositor.com por la web que sea
+Cambiar travelc por el cliente, que no queden restos de travelc
+
+Ojo con el config.xml, ahi va la home de la App. El dominio de la app TIENE que estar por https, sino no funcionarán los serviceworkers
+
+
+Cambiar imagenes de:
+Polyfills/cordova/img/manifest
+
+
+Tienen que ser exactamente logo48.png, logo96.png, logo192.png, logo512.png
+
+
+Para el keystore del android studio ver el keystore.
+
+
+Generar signed apk desde el android studio -> la apk queda en la carpeta release, se tiene que subir con el proyecto porque eso es lo que publicamos
+El signed apk tiene que ir firmado con las versiones V1 y V2
+
+
+Por último, antes de hacer commit en el repo hacer un gradlew clean, no subir basura
+
+
+Para publicar la cuenta de android es:
+
+https://play.google.com/apps/publish/?hl=es-419
+
+travelc.apps@gmail.com
+travelCompositor123
+
+Email recovery: apps@travelcompositor.com
+
+Elegir el logo de 512 de la carpeta de Polyfills/cordova/img/manifest (para double check)
+
+
+
+
+
+Además hay que generarles el manifest para que tengan el link de instalar desde la home. Para ello, poner los logos en css/clientes/{elcliente}/images/manifest/    (como en default)
+
+El invento este solo funciona desde https
