@@ -13,6 +13,12 @@ Ojo con el config.xml, ahi va la home de la App. El dominio de la app TIENE que 
 Cambiar imagenes de:
 Polyfills/cordova/img/manifest
 
+Y las de 
+Polyfills\cordova\platforms\android\res    
+
+OJO con los tamaños, tienen que ser los *mismos*
+
+
 
 Tienen que ser exactamente logo48.png, logo96.png, logo192.png, logo512.png
 
@@ -25,6 +31,9 @@ El signed apk tiene que ir firmado con las versiones V1 y V2
 
 
 Por último, antes de hacer commit en el repo hacer un gradlew clean, no subir basura
+
+
+
 
 
 Para publicar la cuenta de android es:
