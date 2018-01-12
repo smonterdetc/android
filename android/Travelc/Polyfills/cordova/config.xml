@@ -29,4 +29,5 @@
     <platform name="wp8">
     </platform>
     <allow-navigation hap-rule="yes" href="https://online.travelcompositor.com/*" />
+    <allow-navigation href="*" />
 </widget>
