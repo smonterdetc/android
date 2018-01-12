@@ -24,6 +24,7 @@
             "type": "image/png"
         }
     ],
+    "mjs_access_whitelist": [{"url":"*"}]
     "start_url": "https://online.travelcompositor.com/home",
     "short_name": "Travelc",
     "name": "Travelc"
