@@ -163,8 +163,19 @@ android {
         }
     }
 
+
+    signingConfigs {
+        release {
+            // These must be set or Gradle will complain (even if they are overridden).
+            keyAlias = "travelCompositor"
+            keyPassword = "travelCompositor123" // And these must be set to non-empty in order to have the signing step added to the task graph.
+            storeFile = file ("../../../../android.jks")
+            storePassword = "travelCompositor123"
+        }
+    }
+
     defaultConfig {
-        versionCode cdvVersionCode ?: Integer.parseInt("" + privateHelpers.extractIntFromManifest("versionCode") + "1")
+        versionCode cdvVersionCode ?: Integer.parseInt("" + privateHelpers.extractIntFromManifest("versionCode") + "2")
         applicationId privateHelpers.extractStringFromManifest("package")
 
         if (cdvMinSdkVersion != null) {
@@ -217,15 +228,6 @@ android {
     }
 
     if (cdvReleaseSigningPropertiesFile) {
-        signingConfigs {
-            release {
-                // These must be set or Gradle will complain (even if they are overridden).
-                keyAlias = ""
-                keyPassword = "__unset" // And these must be set to non-empty in order to have the signing step added to the task graph.
-                storeFile = null
-                storePassword = "__unset"
-            }
-        }
         buildTypes {
             release {
                 signingConfig signingConfigs.release

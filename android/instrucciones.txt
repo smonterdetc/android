@@ -29,6 +29,8 @@ Para el keystore del android studio ver el keystore.
 Generar signed apk desde el android studio -> la apk queda en la carpeta release, se tiene que subir con el proyecto porque eso es lo que publicamos
 El signed apk tiene que ir firmado con las versiones V1 y V2
 
+El usuario/password y la keystore estan en el build.gradle (linea 170 aprox), aunque android studio lo pide igual. Es lo mismo que gradlew assembleRelease
+
 
 Por último, antes de hacer commit en el repo hacer un gradlew clean, no subir basura
 
@@ -54,3 +56,10 @@ Elegir el logo de 512 de la carpeta de Polyfills/cordova/img/manifest (para doub
 Además hay que generarles el manifest para que tengan el link de instalar desde la home. Para ello, poner los logos en css/clientes/{elcliente}/images/manifest/    (como en default)
 
 El invento este solo funciona desde https
+
+
+
+
+
+NUEVA RELEASE:
+hay que aumentar el versionCode, linea 167 del build.gradle
