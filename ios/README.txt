@@ -47,10 +47,9 @@ Recomiendo editarle a través de una vista en el xcode, pinchando en el document
 
 5- Comprobad en la vista de la imagen que en la seccion Signing esta seleccionada Automatically manage signing y el campo Team a TRAVEL COMPOSITOR SL.
 Recomiendo deseleccionar el campo Automatically manage signing y seleccionarlo de nuevo, si no haces esto y cambias el Bundle identifier falla al firmarla.
-Si lo haces bien se creará un nuevo APP ID con el Bundle ID que establecistes en el paso 4.
 
 
-6- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID que pusiste en el paso 4 y seguir los pasos indicados.
+6- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
 
 
 7- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive y se subirá al itunes connect.
@@ -76,6 +75,7 @@ Tenemos dos certificados uno para desarrollo (Vicente Rossello) y otro de produc
 Usar http://www.manifoldjs.com/generator y generar la app de ios. La aplicacion de ios se crea en projects\Polyfills\cordova\platforms\ios
 
 1- Abrir proyecto con xcode, el proyecto se encuentra en projects\Polyfills\cordova\platforms\ios\{micrositeName}.xcodeproj
+
 
 2- Ir al fichero projects/Polyfills/cordova/platforms/ios/{micrositeName}/config.xml y cambiar:
 
@@ -115,6 +115,7 @@ Tamaños y nombres que deben tener las imagenes:
         Name="icon-1024.png" width="1024" height="1024"
         Name="icon-small@3x.png" width="87" height="87"
 
+
 4- Ir al fichero projects\Polyfills\cordova\platforms\ios\{micrositeName}\Images.xcassets\AppIcon.appiconset\Contents.json y añadir al objeto json cuya propiedad idiom es "ios-marketing" la siguiente propiedad.
 "filename" : "icon-1024.png"
 
@@ -132,10 +133,10 @@ Tamaños y nombres que deben tener las imagenes:
     Name="Default-736h.png" width="1242" height="2208"
 
 
-
 6- Para subir una app tienes que comprobar el fichero projects\Polyfills\cordova\platforms\ios\{micrositeName}\{micrositeName}-Info.plist, este debe tener un Bundle Identifier único, además puedes editarle allí la versión, el build y el nombre de la aplicación (que por defecto tiene valor ${PRODUCT_NAME} que es el nombre que tenga el {micrositeName}).
 Estas opciones se pueden cambiar también en el xcode pinchando en el documento raiz que sale y allí si cambias en la pantlla a Target {micrositeName} aparecerán todos esas campos editables en la pestaña general.
 En la vista del xcode vienen los usuarios con los que podemos firmar. Debes elegir TRAVEL COMPOSITOR SL para subir a produccion.
 Ver imagen xcode-ios.png
+
 
 7- Para generar una app tienes que ir a la opciones del xcode Product -> Archive y subirlo al itunes connect
