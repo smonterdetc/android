@@ -32,4 +32,5 @@
     <preference name="Fullscreen" value="false" />
     <allow-navigation hap-rule="yes" href="https://travelone.paquetedinamico.com/*" />
     <allow-navigation href="*" />
+    <preference name="OverrideUserAgent" value="cordova-app android" />
 </widget>
