@@ -50,6 +50,8 @@ Recomiendo deseleccionar el campo Automatically manage signing y seleccionarlo d
 
 
 6- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
+Apple Id: developer@travelcompositor.com
+Password: travelCompositor123
 
 
 7- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive y se subirá al itunes connect.
