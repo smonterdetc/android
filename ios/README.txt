@@ -1,6 +1,8 @@
 ** GENERAR NUEVA APP Y SUBIRLA **
 
-1- Ir a la carpeta Travelc\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\AppIcon.appiconset y reemplazar todas las imagenes por imagenes del microsite.
+Copiar carpeta Travelc y abrir proyecto en el xcode en {nombremicrosite}/Polyfills/cordova/platforms/ios
+
+1- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\AppIcon.appiconset y reemplazar todas las imagenes por imagenes del microsite.
 Tamaños y nombres que deben tener las imagenes:
         Name="icon-60@3x.png" width="180" height="180"
         Name="icon-60.png" width="60" height="60"
@@ -23,7 +25,7 @@ Tamaños y nombres que deben tener las imagenes:
         Name="icon-small@3x.png" width="87" height="87"
 
 
-2- Ir a la carpeta Travelc\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\LaunchImage.launchimage y reemplazar todas las imagenes por imagenes del microsite.
+2- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\LaunchImage.launchimage y reemplazar todas las imagenes por imagenes del microsite.
 Tamaños y nombres que deben tener las imagenes:
 	Name="Default~iphone.png" width="320" height="480"
     Name="Default@2x~iphone.png" width="640" height="960"
@@ -37,7 +39,7 @@ Tamaños y nombres que deben tener las imagenes:
 
 
 3- Cambiar la url que se muestra al abrir la app.
-Cambiar en el fichero Travelc/Polyfills/cordova/platforms/ios/Travelc/config.xml el atributo src de la etiqueta content por el de la url que quieras.
+Cambiar en el fichero {nombremicrosite}/Polyfills/cordova/platforms/ios/Travelc/config.xml el atributo src de la etiqueta content por el de la url que quieras.
 
 
 4- Poner un Bundle Identifier único, versión, build y el nombre de la aplicación. El nombre de la aplicación tiene valor ${PRODUCT_NAME} que es el nombre de la aplicación original (Travelc)
@@ -141,4 +143,5 @@ En la vista del xcode vienen los usuarios con los que podemos firmar. Debes eleg
 Ver imagen xcode-ios.png
 
 
-7- Para generar una app tienes que ir a la opciones del xcode Product -> Archive y subirlo al itunes connect
+7- Para generar una app tienes que ir a la opciones del xcode Product -> Archive, con Generic iOS Device  y subirlo al itunes connect
+Key access: TravelCompositor421
