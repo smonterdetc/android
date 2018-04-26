@@ -1,6 +1,8 @@
 ** GENERAR NUEVA APP Y SUBIRLA **
 
-Copiar carpeta Travelc y abrir proyecto en el xcode en {nombremicrosite}/Polyfills/cordova/platforms/ios
+* Tienes que estar en un mac (nuestro mac tiene password TravelCompositor421)
+
+* Copiar carpeta Travelc y abrir proyecto en el xcode en {nombremicrosite}/Polyfills/cordova/platforms/ios
 
 1- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\AppIcon.appiconset y reemplazar todas las imagenes por imagenes del microsite.
 Tamaños y nombres que deben tener las imagenes:
@@ -56,8 +58,8 @@ Apple Id: developer@travelcompositor.com
 Password: travelCompositor123
 
 
-7- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive y se subirá al itunes connect.
-
+7- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive, con Generic iOS Device y se subirá al itunes connect.
+Key access: TravelCompositor421
 
 8- Testear la app si quieres y seguir los pasos hasta conseguir publicarla.
 
@@ -68,9 +70,7 @@ Password: travelCompositor123
 La informacion se encuentra en developer.apple.com. Para crear una app hay que ir al itunes connect y crear una nueva app y rellenar los datos que nos piden.
 Los usuarios podemos verlo en xcode -> Preferences en la pestaña de accounts
 
-* Tenemos dos apps
-Una de develop que es com.travelcompositor.online y Travelc
-Tenemos dos certificados uno para desarrollo (Vicente Rossello) y otro de produccion (TRAVEL COMPOSITOR SL)
+* Tenemos dos certificados uno para desarrollo (Vicente Rossello) y otro de produccion (TRAVEL COMPOSITOR SL)
 
 
 
