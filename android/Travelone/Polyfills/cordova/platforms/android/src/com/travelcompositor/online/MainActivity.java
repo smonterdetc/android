@@ -17,7 +17,7 @@
        under the License.
  */
 
-package travelone.paquetedinamico.com;
+package travelonegroup.com;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
