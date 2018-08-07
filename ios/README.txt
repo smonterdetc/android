@@ -41,7 +41,7 @@ Tamaños y nombres que deben tener las imagenes:
 
 
 3- Cambiar la url que se muestra al abrir la app.
-Cambiar en el fichero {nombremicrosite}/Polyfills/cordova/platforms/ios/Travelc/config.xml el atributo src de la etiqueta content por el de la url que quieras.
+Cambiar en el fichero {nombremicrosite}/Polyfills/cordova/platforms/ios/Travelc/config.xml el atributo src de la etiqueta content por el de la url que quieras. ** OJO: Si se cambia desde el xcode el fichero cuelga de /Starging/config.xml
 
 
 4- Poner un Bundle Identifier único, versión, build y el nombre de la aplicación. El nombre de la aplicación tiene valor ${PRODUCT_NAME} que es el nombre de la aplicación original (Travelc)
