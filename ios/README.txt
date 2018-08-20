@@ -49,19 +49,24 @@ Estas variables se pueden editar en el fichero Travelc\Polyfills\cordova\platfor
 Recomiendo editarle a través de una vista en el xcode, pinchando en el documento raiz que sale y allí aparecerán todos esas campos editables en la pestaña general. Ver imagen xcode-ios.png.
 
 
-5- Comprobad en la vista de la imagen que en la seccion Signing esta seleccionada Automatically manage signing y el campo Team a TRAVEL COMPOSITOR SL.
+5- También hay que comprobar que se oculta el status bar. 
+Para ello, en la vista del xcode debe estar seleccionado el "Hide status bar" del iphone, el "Hide during application launch" del ipad y añadir la propiedad "View controller-based status bar appearance" y establecerla a NO
+En el video te explican como hacerlo https://www.youtube.com/watch?v=5WNo4uBUTiY
+
+
+6- Comprobad en la vista de la imagen que en la seccion Signing esta seleccionada Automatically manage signing y el campo Team a TRAVEL COMPOSITOR SL.
 Recomiendo deseleccionar el campo Automatically manage signing y seleccionarlo de nuevo, si no haces esto y cambias el Bundle identifier falla al firmarla.
 
 
-6- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
+7- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
 Apple Id: developer@travelcompositor.com
 Password: travelCompositor123
 
 
-7- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive, con Generic iOS Device y se subirá al itunes connect.
+8- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive, con Generic iOS Device y se subirá al itunes connect.
 Key access: TravelCompositor421
 
-8- Testear la app si quieres y seguir los pasos hasta conseguir publicarla.
+9- Testear la app si quieres y seguir los pasos hasta conseguir publicarla.
 
 
 ** INFORMACION ADICIONAL **
