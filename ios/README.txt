@@ -45,7 +45,7 @@ Cambiar en el fichero {nombremicrosite}/Polyfills/cordova/platforms/ios/Travelc/
 
 
 4- Poner un Bundle Identifier único, versión, build y el nombre de la aplicación. El nombre de la aplicación tiene valor ${PRODUCT_NAME} que es el nombre de la aplicación original (Travelc)
-Estas variables se pueden editar en el fichero Travelc\Polyfills\cordova\platforms\ios\Travelc\Travelc-Info.plist.
+Estas variables se pueden editar en el fichero {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Travelc-Info.plist.
 Recomiendo editarle a través de una vista en el xcode, pinchando en el documento raiz que sale y allí aparecerán todos esas campos editables en la pestaña general. Ver imagen xcode-ios.png.
 
 
@@ -54,8 +54,14 @@ Recomiendo deseleccionar el campo Automatically manage signing y seleccionarlo d
 
 
 6- También hay que comprobar que se oculta el status bar. 
-Para ello, en la vista del xcode debe estar seleccionado el "Hide status bar" del iphone, el "Hide during application launch" del ipad y añadir la propiedad "View controller-based status bar appearance" y establecerla a NO
-En el video te explican como hacerlo https://www.youtube.com/watch?v=5WNo4uBUTiY
+Esto se traduce en añadir 3 parametros al {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Travelc-Info.plist:
+<key>UIStatusBarHidden</key>
+<true/>
+<key>UIStatusBarHidden~ipad</key>
+<true/>
+<key>UIViewControllerBasedStatusBarAppearance</key>
+<false/>
+Esto se puede hacer tambien desde la vida del xcode. En el video te explican como hacerlo https://www.youtube.com/watch?v=5WNo4uBUTiY
 
 
 7- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
