@@ -41,27 +41,38 @@ Tamaños y nombres que deben tener las imagenes:
 
 
 3- Cambiar la url que se muestra al abrir la app.
-Cambiar en el fichero {nombremicrosite}/Polyfills/cordova/platforms/ios/Travelc/config.xml el atributo src de la etiqueta content por el de la url que quieras.
+Cambiar en el fichero {nombremicrosite}/Polyfills/cordova/platforms/ios/Travelc/config.xml el atributo src de la etiqueta content por el de la url que quieras. ** OJO: Si se cambia desde el xcode el fichero cuelga de /Starging/config.xml
 
 
 4- Poner un Bundle Identifier único, versión, build y el nombre de la aplicación. El nombre de la aplicación tiene valor ${PRODUCT_NAME} que es el nombre de la aplicación original (Travelc)
-Estas variables se pueden editar en el fichero Travelc\Polyfills\cordova\platforms\ios\Travelc\Travelc-Info.plist.
+Estas variables se pueden editar en el fichero {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Travelc-Info.plist.
 Recomiendo editarle a través de una vista en el xcode, pinchando en el documento raiz que sale y allí aparecerán todos esas campos editables en la pestaña general. Ver imagen xcode-ios.png.
 
 
-5- Comprobad en la vista de la imagen que en la seccion Signing esta seleccionada Automatically manage signing y el campo Team a TRAVEL COMPOSITOR SL.
+5- Comprobar en la vista de la imagen que en la seccion Signing esta seleccionada Automatically manage signing y el campo Team a TRAVEL COMPOSITOR SL.
 Recomiendo deseleccionar el campo Automatically manage signing y seleccionarlo de nuevo, si no haces esto y cambias el Bundle identifier falla al firmarla.
 
 
-6- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
+6- También hay que comprobar que se oculta el status bar. 
+Esto se traduce en añadir 3 parametros al {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Travelc-Info.plist:
+<key>UIStatusBarHidden</key>
+<true/>
+<key>UIStatusBarHidden~ipad</key>
+<true/>
+<key>UIViewControllerBasedStatusBarAppearance</key>
+<false/>
+Esto se puede hacer tambien desde la vida del xcode. En el video te explican como hacerlo https://www.youtube.com/watch?v=5WNo4uBUTiY
+
+
+7- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
 Apple Id: developer@travelcompositor.com
 Password: travelCompositor123
 
 
-7- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive, con Generic iOS Device y se subirá al itunes connect.
+8- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive, con Generic iOS Device y se subirá al itunes connect.
 Key access: TravelCompositor421
 
-8- Testear la app si quieres y seguir los pasos hasta conseguir publicarla.
+9- Testear la app si quieres y seguir los pasos hasta conseguir publicarla.
 
 
 ** INFORMACION ADICIONAL **
