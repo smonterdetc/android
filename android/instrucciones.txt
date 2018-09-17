@@ -16,6 +16,11 @@ Polyfills/cordova/img/manifest
 Y las de 
 Polyfills\cordova\platforms\android\res    
 
+El nombre de la aplicacion va en res/values/strings.xml
+En config la configuracion del website
+
+En AndroidManifest.xml cambiar package y la version de generacion del API si es necesario. Actualmente minimo version 26
+
 OJO con los tamaños, tienen que ser los *mismos*
 
 
