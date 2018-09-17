@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\travelc\tr2-apps\android\Overtrav\Polyfills\cordova\platforms\android\CordovaLib\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="28.0.2"
+        sha1="3029e6466f4677a4b85d36c90efbd98a0364db85">
+        <dex dex="D:\travelc\tr2-apps\android\Overtrav\Polyfills\cordova\platforms\android\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

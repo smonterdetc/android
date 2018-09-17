@@ -1,0 +1,4 @@
+#Mon Sep 17 16:46:48 CEST 2018
+base.0=D\:\\travelc\\tr2-apps\\android\\Overtrav\\Polyfills\\cordova\\platforms\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
