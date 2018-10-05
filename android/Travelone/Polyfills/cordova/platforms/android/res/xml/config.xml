@@ -33,4 +33,5 @@
     <allow-navigation hap-rule="yes" href="https://travelone.paquetedinamico.com/*" />
     <allow-navigation href="*" />
     <preference name="OverrideUserAgent" value="cordova-app android" />
+    <preference name="loadUrlTimeoutValue" value="120000" />
 </widget>
