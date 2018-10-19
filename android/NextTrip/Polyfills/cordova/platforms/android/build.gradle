@@ -163,7 +163,6 @@ android {
         }
     }
 
-
     signingConfigs {
         release {
             // These must be set or Gradle will complain (even if they are overridden).
