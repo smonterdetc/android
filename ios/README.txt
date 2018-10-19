@@ -66,7 +66,7 @@ Esto se puede hacer tambien desde la vida del xcode. En el video te explican com
 
 7- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
 Apple Id: developer@travelcompositor.com
-Password: travelCompositor123
+Password: TravelCompositor421
 
 
 8- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive, con Generic iOS Device y se subirá al itunes connect.
@@ -156,3 +156,14 @@ Ver imagen xcode-ios.png
 
 7- Para generar una app tienes que ir a la opciones del xcode Product -> Archive, con Generic iOS Device  y subirlo al itunes connect
 Key access: TravelCompositor421
+
+
+
+
+//NOTIFICACIONES PUSH. Para preparar la app para poder recibir notificaciones push hay que seguir el siguiente manual. Los certificados necesarios están en la carpeta certificados del mac:
+
+https://medium.com/@imfx/apple-push-notification-services-6323b24b8bfa
+
+También hay que añadir la propiedad ITSAppUsesNonExemptEncryption = false en el archivo :\Polyfills\cordova\platforms\ios\{micrositeName}\{micrositeName}-Info.plist
+
+<key>ITSAppUsesNonExemptEncryption</key><false/>
