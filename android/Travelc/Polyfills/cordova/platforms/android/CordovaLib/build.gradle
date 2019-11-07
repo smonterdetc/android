@@ -38,8 +38,8 @@ ext {
 }
 
 android {
-    compileSdkVersion cdvCompileSdkVersion
-    buildToolsVersion cdvBuildToolsVersion
+    compileSdkVersion 29
+    buildToolsVersion '29.0.2'
     publishNonDefault true
 
     compileOptions {
