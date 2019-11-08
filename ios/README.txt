@@ -66,9 +66,8 @@ Esto se puede hacer tambien desde la vida del xcode. En el video te explican com
 
 7- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
 Apple Id: developer@travelcompositor.com
-Password: TravelCompositor421
-
-
+Password:  T.compositor123
+S
 8- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive, con Generic iOS Device y se subirá al itunes connect.
 Key access: TravelCompositor421
 
