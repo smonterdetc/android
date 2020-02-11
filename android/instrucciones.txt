@@ -3,9 +3,11 @@ WORK IN PROGRESS, básicamente he chapuceado con el pwabuilder hasta llegar a es
 
 Para generar una nueva:
 
-Copiar aplicacion de travelc
-Cambiar online.travelcompositor.com por la web que sea
-Cambiar travelc por el cliente, que no queden restos de travelc
+1- Copiar aplicacion de travelc
+2- Cambiar cadena de texto "online.travelcompositor.com" en todo el proyecto por el dominio del microsite que sea
+3- Cambiar en el fichero /res/values/strings.xml el nombre de la aplicación (Travelc) por el nombre de la nueva aplicación
+4- Cambiar el fichero project.properties a android-29 y refrescar el proyecto de gradle
+5- Utilizar la herramienta de android studio "Image Asset" para generar las imágenes a través de una imagen de 512x512
 
 Ojo con el config.xml, ahi va la home de la App. El dominio de la app TIENE que estar por https, sino no funcionarán los serviceworkers
 
@@ -73,4 +75,4 @@ El invento este solo funciona desde https
 
 
 NUEVA RELEASE:
-hay que aumentar el versionCode, linea 167 del build.gradle
+hay que aumentar el versionCode, en el build.gradle la variable ext.cdvVersionCode
