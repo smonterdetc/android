@@ -53,15 +53,20 @@ Recomiendo editarle a través de una vista en el xcode, pinchando en el document
 Recomiendo deseleccionar el campo Automatically manage signing y seleccionarlo de nuevo, si no haces esto y cambias el Bundle identifier falla al firmarla.
 
 
-6- También hay que comprobar que se oculta el status bar. 
-Esto se traduce en añadir 3 parametros al {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Travelc-Info.plist:
-<key>UIStatusBarHidden</key>
-<true/>
-<key>UIStatusBarHidden~ipad</key>
-<true/>
-<key>UIViewControllerBasedStatusBarAppearance</key>
-<false/>
-Esto se puede hacer tambien desde la vida del xcode. En el video te explican como hacerlo https://www.youtube.com/watch?v=5WNo4uBUTiY
+6- a) También hay que comprobar que se oculta el status bar. 
+	Esto se traduce en añadir 3 parametros al {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Travelc-Info.plist:
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UIStatusBarHidden~ipad</key>
+	<true/>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	Esto se puede hacer tambien desde la vida del xcode. En el video te explican como hacerlo https://www.youtube.com/watch?v=5WNo4uBUTiY
+
+	b) Para quitar el borde negro arriba y abajo en las pantalla del iphone x hay que añadir al fichero Travelc-Info.plist
+	
+	<key>UILaunchStoryboardName</key>
+	<string>CDVLaunchScreen</string>
 
 
 7- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
