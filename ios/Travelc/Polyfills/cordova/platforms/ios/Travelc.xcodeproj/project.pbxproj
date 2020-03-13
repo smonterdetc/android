@@ -351,7 +351,7 @@
 				INFOPLIST_FILE = "Travelc/Travelc-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				MARKETING_VERSION = 1.0.3;
+				MARKETING_VERSION = 1.0.4;
 				PRODUCT_BUNDLE_IDENTIFIER = Travelc;
 				PRODUCT_NAME = Travelc;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -380,7 +380,7 @@
 				INFOPLIST_FILE = "Travelc/Travelc-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				MARKETING_VERSION = 1.0.3;
+				MARKETING_VERSION = 1.0.4;
 				PRODUCT_BUNDLE_IDENTIFIER = Travelc;
 				PRODUCT_NAME = Travelc;
 				PROVISIONING_PROFILE_SPECIFIER = "";
