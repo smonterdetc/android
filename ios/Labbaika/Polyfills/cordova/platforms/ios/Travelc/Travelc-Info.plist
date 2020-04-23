@@ -42,8 +42,6 @@
 	</dict>
 	<key>NSMainNibFile~ipad</key>
 	<string></string>
-	<key>UILaunchStoryboardName</key>
-	<string>CDVLaunchScreen</string>
 	<key>UIRequiresFullScreen</key>
 	<true/>
 	<key>UIStatusBarHidden</key>
