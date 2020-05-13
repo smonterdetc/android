@@ -4,7 +4,7 @@
 
 * Copiar carpeta Travelc y abrir proyecto en el xcode en {nombremicrosite}/Polyfills/cordova/platforms/ios
 
-1- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\AppIcon.appiconset y reemplazar todas las imagenes por imagenes del microsite.
+1- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\AppIcon.appiconset y reemplazar todas las imagenes por imagenes del microsite. Para generarlas se puede a través de https://appicon.co/
 Tamaños y nombres que deben tener las imagenes:
         Name="icon-60@3x.png" width="180" height="180"
         Name="icon-60.png" width="60" height="60"
@@ -27,7 +27,7 @@ Tamaños y nombres que deben tener las imagenes:
         Name="icon-small@3x.png" width="87" height="87"
 
 
-2- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\LaunchImage.launchimage y reemplazar todas las imagenes por imagenes del microsite.
+2- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\LaunchImage.launchimage y reemplazar todas las imagenes por imagenes del microsite. Pedirlas a Rafa
 Tamaños y nombres que deben tener las imagenes:
 	Name="Default~iphone.png" width="320" height="480"
     Name="Default@2x~iphone.png" width="640" height="960"
@@ -41,7 +41,7 @@ Tamaños y nombres que deben tener las imagenes:
 
 
 3- Cambiar la url que se muestra al abrir la app.
-Cambiar en el fichero {nombremicrosite}/Polyfills/cordova/platforms/ios/Travelc/config.xml el atributo src de la etiqueta content por el de la url que quieras. ** OJO: Si se cambia desde el xcode el fichero cuelga de /Starging/config.xml
+Cambiar en el fichero {nombremicrosite}/Polyfills/cordova/platforms/ios/Travelc/config.xml el atributo src de la etiqueta content por el de la url que quieras. ** OJO: Si se cambia desde el xcode el fichero cuelga de /Staging/config.xml
 
 
 4- Poner un Bundle Identifier único, versión, build y el nombre de la aplicación. El nombre de la aplicación tiene valor ${PRODUCT_NAME} que es el nombre de la aplicación original (Travelc)
