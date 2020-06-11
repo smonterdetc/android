@@ -2,7 +2,23 @@
 
 * Tienes que estar en un mac (nuestro mac tiene password TravelCompositor421)
 
-* Copiar carpeta Travelc y abrir proyecto en el xcode en {nombremicrosite}/Polyfills/cordova/platforms/ios
+* Copiar carpeta Escoper y abrir proyecto en el xcode en {nombremicrosite}/Polyfills/cordova/platforms/ios
+
+Se han tenido que hacer cambios que de momento están aplicados en Escoper, ya que ya no se permite el UIWebView:
+
+http://www.phonegap.es/?p=728
+cordova platform: ios 5.1.1
+cordova plugin:
+- cordova-plugin-hostedwebapp 0.3.1 "HostedWebApp" (ya estaba)
+- cordova-plugin-whitelist 1.3.3 "Whitelist" (ya estaba)
+- cordova-plugin-wkwebview-engine 1.2.1 "Cordova WKWebView Engine" (se ha añadido nuevo)
+En el fichero {nombremicrosite}/Polyfills/cordova/platforms/ios/{micrositeName}/config.xml añadir <preference name="WKWebViewOnly" value="true" />
+Paso "Link webkit.framework to your app in Build Phases of your project in Xcode as below" de la web https://mobilefirstplatform.ibmcloud.com/blog/2020/01/27/Removal-of-UIWebview/
+
+Estos cambios de arriba deberían estar aplicados cuando copiamos Escoper
+
+
+Pasos:
 
 1- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\AppIcon.appiconset y reemplazar todas las imagenes por imagenes del microsite. Para generarlas se puede a través de https://appicon.co/
 Tamaños y nombres que deben tener las imagenes:
@@ -27,7 +43,7 @@ Tamaños y nombres que deben tener las imagenes:
         Name="icon-small@3x.png" width="87" height="87"
 
 
-2- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\LaunchImage.launchimage y reemplazar todas las imagenes por imagenes del microsite. Pedirlas a Rafa
+2- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\LaunchImage.launchimage y reemplazar todas las imagenes por imagenes del microsite. Pedirlas a diseño
 Tamaños y nombres que deben tener las imagenes:
 	Name="Default~iphone.png" width="320" height="480"
     Name="Default@2x~iphone.png" width="640" height="960"
@@ -72,11 +88,17 @@ Recomiendo deseleccionar el campo Automatically manage signing y seleccionarlo d
 7- Tienes que entrar a developer.apple.com a la seccion de itunes connect, crear una nueva app y establecer el Bundle ID Suffix que pusiste en el paso 4 y seguir los pasos indicados.
 Apple Id: developer@travelcompositor.com
 Password:  T.compositor123
-S
+
 8- Para subir la app tienes que ir en las opciones de arriba del xcode Product -> Archive, con Generic iOS Device y se subirá al itunes connect.
 Key access: TravelCompositor421
 
-9- Testear la app si quieres y seguir los pasos hasta conseguir publicarla.
+9- Testear la app si quieres
+
+10- Rellenar la información necesaria de la app en la cuenta de desarrolladores de Apple hasta justo antes de pasar la revisión por parte de Apple
+
+11- Pedir a diseño que haga un diseño provisional de app para que pase la revisión
+
+12- Pasar la revisión
 
 
 ** INFORMACION ADICIONAL **
@@ -164,7 +186,7 @@ Key access: TravelCompositor421
 
 
 
-//NOTIFICACIONES PUSH. Para preparar la app para poder recibir notificaciones push hay que seguir el siguiente manual. Los certificados necesarios están en la carpeta certificados del mac:
+//NOTIFICACIONES PUSH. Para preparar la app para poder recibir notificaciones push hay que seguir el siguiente manual. Los certificados necesarios están en la carpeta certificados del mac (en la última app publicada Escoper no se pusieron los push):
 
 https://medium.com/@imfx/apple-push-notification-services-6323b24b8bfa
 
