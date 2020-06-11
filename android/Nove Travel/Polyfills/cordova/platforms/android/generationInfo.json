@@ -1,0 +1,10 @@
+{
+    "generationTool": "pwabuilder",
+    "generationToolVersion": "2.0.2-rc.1",
+    "platformId": "cordova",
+    "platformPackage": "pwabuilder-cordova",
+    "platformVersion": "2.0.0-rc.1",
+    "generatedFrom": "CLI",
+    "generationDate": "2018-01-11 11:51:11 Z",
+    "generatedURL": "https://app.nove.travel/resources/manifest/default.json"
+}
