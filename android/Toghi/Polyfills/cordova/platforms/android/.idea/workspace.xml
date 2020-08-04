@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9725727-360a-48ca-a4ab-0adeca090827" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/mockable-android-23.v3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/buildConfig/androidTest/debug/org/apache/cordova/test/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/buildConfig/release/org/apache/cordova/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/androidTest/debug/org/apache/cordova/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/androidTest/debug/org/apache/cordova/test/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/debug/org/apache/cordova/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/debug/org/apache/cordova/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/release/org/apache/cordova/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/attr/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/attr/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/bundles/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/bundles/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/bundles/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/AuthenticationToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CallbackContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ConfigXmlParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity$4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaBridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaClientCertRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaHttpAuthHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaInterfaceImpl$ActivityResultHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaInterfaceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaPreferences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaResourceApi$OpenForReadResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaResourceApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewEngine$Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewEngine$EngineView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$EngineClient$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$EngineClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$EngineClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ExposedJsApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ICordovaClientCertRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ICordovaCookieManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ICordovaHttpAuthHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/LOG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$BridgeMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$JsMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$NoOpBridgeMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$OnlineEventsBridgeModeDelegate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/PluginEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/PluginManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/PluginResult$Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/PluginResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ResumeCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/Whitelist$URLPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/Whitelist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemCookieManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemExposedJsApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebViewClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebViewEngine$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebViewEngine$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebViewEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/compileReleaseAidl/dependency.store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/mergeReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/release-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/intermediate-jars/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/intermediate-jars/release/res.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/javaPrecompile/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifest/androidTest/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifests/aapt/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifests/aapt/release/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifests/full/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifests/full/release/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/androidTest/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/release/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/androidTest/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/symbols/androidTest/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/transforms/mergeJniLibs/release/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/res/xml/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/res/xml/config.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="2.7_QVGA_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="108" column="57" lean-forward="true" selection-start-line="108" selection-start-column="57" selection-end-line="108" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#858#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/www/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/travelcompositor/online/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/xml/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="81" selection-start-line="8" selection-start-column="81" selection-end-line="8" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CordovaLib/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CordovaLib/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Android/Sdk/sources/android-29/android/view/KeyboardShortcutGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>online.travelcompositor.com</find>
+      <find>keystore</find>
+      <find>https://app.nove.travel/</find>
+      <find>compileSdkVersion</find>
+      <find>5.4.1</find>
+      <find>gradle.version=4.10.3</find>
+      <find>nove.tr</find>
+      <find>app.nove.travel</find>
+      <find>public void obtainGiataId() {</find>
+      <find>preference</find>
+      <find>orienta</find>
+      <find>toghi.com</find>
+      <find>minsdkver</find>
+      <find>cdvve</find>
+      <find>sdkversion</find>
+      <find>minSdkVersion</find>
+      <find>ext.cdvVersionCode</find>
+      <find>cdvVersionCode</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>app.nove.travel</replace>
+      <replace>toghi.com</replace>
+      <replace>travelonegroup.com</replace>
+    </replaceStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../../../../keystore/android.jks" />
+    <option name="KEY_ALIAS" value="travelCompositor" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CordovaLib/project.properties" />
+        <option value="$PROJECT_DIR$/project.properties" />
+        <option value="$PROJECT_DIR$/assets/www/manifest.json" />
+        <option value="$PROJECT_DIR$/src/com/travelcompositor/online/MainActivity.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/xml/config.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/CordovaLib/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="996" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CordovaLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="online" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="2.7_QVGA_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-03T09:43:58.871Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.android:CordovaLib [clean]">
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="android:CordovaLib [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CordovaLib" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.android:CordovaLib [clean]" />
+        <item itemvalue="Gradle.android [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9725727-360a-48ca-a4ab-0adeca090827" name="Default" comment="" />
+      <created>1580743640486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580743640486</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="996" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24813233" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Captures" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32997763" />
+      <window_info anchor="bottom" id="Logcat" order="7" weight="0.32997763" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24221453" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32997763" />
+      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.25028834" />
+      <window_info anchor="bottom" id="Android Profiler" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="right" id="Gradle" order="5" visible="true" weight="0.3276414" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Preview" order="8" weight="0.32977587" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CordovaLib/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-anydpi-v26/ic_launcher.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-hdpi/ic_launcher_background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-mdpi/ic_launcher_background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xhdpi/ic_launcher_background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xxhdpi/ic_launcher_background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-hdpi/ic_launcher_foreground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-mdpi/ic_launcher_foreground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xhdpi/ic_launcher_foreground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xxhdpi/ic_launcher_foreground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xxxhdpi/ic_launcher_foreground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-hdpi/ic_launcher_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-mdpi/ic_launcher_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xxxhdpi/ic_launcher_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xxhdpi/ic_launcher_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xhdpi/ic_launcher_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-mdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xxxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-xxxhdpi/ic_launcher_background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-29/java/security/KeyStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="210" column="13" selection-start-line="210" selection-start-column="13" selection-end-line="210" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-29/android.jar!/android/view/KeyboardShortcutGroup.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/travelcompositor/online/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CordovaLib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-29/android/view/KeyboardShortcutGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/xml/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="81" selection-start-line="8" selection-start-column="81" selection-end-line="8" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CordovaLib/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="108" column="57" lean-forward="true" selection-start-line="108" selection-start-column="57" selection-end-line="108" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
