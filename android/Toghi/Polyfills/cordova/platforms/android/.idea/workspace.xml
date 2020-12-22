@@ -15,174 +15,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9725727-360a-48ca-a4ab-0adeca090827" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/assetWizardSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/ic_launcher-web.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Escoper/Polyfills/cordova/platforms/android/android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Nove Travel/Polyfills/cordova/platforms/android/android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/mockable-android-23.v3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/buildConfig/androidTest/debug/org/apache/cordova/test/BuildConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/buildConfig/release/org/apache/cordova/BuildConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/androidTest/debug/org/apache/cordova/R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/androidTest/debug/org/apache/cordova/test/R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/debug/org/apache/cordova/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/debug/org/apache/cordova/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/release/org/apache/cordova/R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/attr/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/attr/R.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/bundles/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/bundles/debug/R.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/bundles/release/R.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/AuthenticationToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CallbackContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ConfigXmlParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity$4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaBridge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaClientCertRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper$Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaDialogsHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaHttpAuthHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaInterfaceImpl$ActivityResultHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaInterfaceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaPlugin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaPreferences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaResourceApi$OpenForReadResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaResourceApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewEngine$Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewEngine$EngineView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$EngineClient$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$EngineClient$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl$EngineClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CordovaWebViewImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/CoreAndroid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ExposedJsApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ICordovaClientCertRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ICordovaCookieManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ICordovaHttpAuthHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/LOG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$BridgeMode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$JsMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$NoOpBridgeMode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$OnlineEventsBridgeModeDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/NativeToJsMessageQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/PluginEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/PluginManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/PluginResult$Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/PluginResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/ResumeCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/Whitelist$URLPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/Whitelist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemCookieManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemExposedJsApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebChromeClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebViewClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebViewEngine$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebViewEngine$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/classes/release/org/apache/cordova/engine/SystemWebViewEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/compileReleaseAidl/dependency.store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/mergeReleaseAssets/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/release-mergeJniLibs/merge-state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/intermediate-jars/release/classes.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/intermediate-jars/release/res.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/javaPrecompile/release/annotationProcessors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifest/androidTest/debug/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifests/aapt/release/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifests/aapt/release/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifests/full/release/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/manifests/full/release/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/androidTest/debug/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/release/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/androidTest/debug/package-aware-r.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/release/package-aware-r.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/symbols/androidTest/debug/R.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/transforms/mergeJniLibs/release/__content__.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/CordovaLib/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/res/xml/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelone/Polyfills/cordova/platforms/android/res/xml/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CordovaLib/CordovaLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CordovaLib/CordovaLib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/CordovaLib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/debug/org/apache/cordova/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/build/generated/source/r/debug/org/apache/cordova/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/bundles/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/bundles/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/src/org/apache/cordova/engine/SystemWebViewEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/CordovaLib/src/org/apache/cordova/engine/SystemWebViewEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Travelc/Polyfills/cordova/platforms/android/project.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +62,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="2.7_QVGA_API_29" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="be5dbd280cde" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -224,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="108" column="57" lean-forward="true" selection-start-line="108" selection-start-column="57" selection-end-line="108" selection-end-column="57" />
+            <state relative-caret-position="414">
+              <caret line="129" column="1" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
               <folding>
                 <element signature="e#0#858#0" expanded="true" />
               </folding>
@@ -336,8 +205,8 @@
       <find>cdvve</find>
       <find>sdkversion</find>
       <find>minSdkVersion</find>
-      <find>ext.cdvVersionCode</find>
       <find>cdvVersionCode</find>
+      <find>ext.cdvVersionCode</find>
     </findStrings>
     <replaceStrings>
       <replace>app.nove.travel</replace>
@@ -379,8 +248,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -432,7 +299,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -610,7 +479,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="996" extended-state="6" />
+    <frame x="0" y="-2" width="1920" height="1023" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24813233" />
@@ -633,8 +502,8 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.24221453" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32997763" />
-      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.25028834" />
-      <window_info anchor="bottom" id="Android Profiler" order="12" />
+      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.25055927" />
+      <window_info anchor="bottom" id="Android Profiler" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -727,6 +596,16 @@
     <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-29/android.jar!/android/view/KeyboardShortcutGroup.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="129" column="1" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/www/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -745,20 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CordovaLib/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-29/android/view/KeyboardShortcutGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -792,13 +657,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/CordovaLib/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="108" column="57" lean-forward="true" selection-start-line="108" selection-start-column="57" selection-end-line="108" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#858#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-29/android/view/KeyboardShortcutGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
         </state>
       </provider>
     </entry>
