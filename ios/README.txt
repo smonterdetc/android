@@ -43,7 +43,7 @@ Tamaños y nombres que deben tener las imagenes:
         Name="icon-small@3x.png" width="87" height="87"
 
 
-2- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\LaunchImage.launchimage y reemplazar todas las imagenes por imagenes del microsite. Pedirlas a diseño
+2- Ir a la carpeta {nombremicrosite}\Polyfills\cordova\platforms\ios\Travelc\Images.xcassets\LaunchImage.launchimage y reemplazar todas las imagenes por imagenes del microsite. Utilizaremos la aplicación https://www.img2go.com/resize-image
 Tamaños y nombres que deben tener las imagenes:
 	Name="Default~iphone.png" width="320" height="480"
     Name="Default@2x~iphone.png" width="640" height="960"
