@@ -114,7 +114,7 @@ if (ext.cdvReleaseSigningPropertiesFile == null && file('release-signing.propert
 // Cast to appropriate types.
 ext.cdvBuildMultipleApks = cdvBuildMultipleApks == null ? false : cdvBuildMultipleApks.toBoolean();
 ext.cdvMinSdkVersion = cdvMinSdkVersion == null ? null : Integer.parseInt('' + cdvMinSdkVersion)
-ext.cdvVersionCode = 31
+ext.cdvVersionCode = 33
 
 def computeBuildTargetName(debugBuild) {
     def ret = 'assemble'
