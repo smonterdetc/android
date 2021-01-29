@@ -22,7 +22,7 @@ Para esto no vale con sustituir las que habia en /drawable-hdpi-v4. Debido a que
 
 https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive
 
-Para crearlas podemos utilizar la herramienta de android studio "image asset", esto nos crea todas las imagenes necesarias y la estructura de carpetas correcta. Despues habra que apuntar la aplicacion a estos nuevos iconos. Ver el commit -> https://bitbucket.org/vrossello/tr2-apps/commits/356b91741ed77bc057d4c185eff9c678d6f0a7b9#chg-android/Travelc/Polyfills/cordova/platforms/android/res/xml/config.xml 
+Para crearlas podemos utilizar la herramienta de android studio "image asset", en el campo "Source Asset --> path" seleccionaremos la imagen de 512x512 ,esto nos crea todas las imagenes necesarias y la estructura de carpetas correcta. Despues habra que apuntar la aplicacion a estos nuevos iconos. 
 
 El nombre de la aplicacion va en res/values/strings.xml
 En config la configuracion del website
