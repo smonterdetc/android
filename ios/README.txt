@@ -2,7 +2,7 @@
 
 * Tienes que estar en un mac (nuestro mac tiene password TravelCompositor421)
 
-* Copiar carpeta Escoper y abrir proyecto en el xcode en {nombremicrosite}/Polyfills/cordova/platforms/ios
+* Copiar carpeta Travelc y abrir proyecto en el xcode en {nombremicrosite}/Polyfills/cordova/platforms/ios
 
 Se han tenido que hacer cambios que de momento están aplicados en Escoper, ya que ya no se permite el UIWebView:
 
