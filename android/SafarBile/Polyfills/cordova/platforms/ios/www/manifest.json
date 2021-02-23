@@ -27,7 +27,7 @@
     "mjs_access_whitelist": [
                              {"url":"https://*.*"}, {"url":"http://*.*"}
     ]
-    "start_url": "https://online.travelcompositor.com/home",
+    "start_url": "https://safarbile.com/home",
     "short_name": "Travelc",
     "name": "Travelc"
 }

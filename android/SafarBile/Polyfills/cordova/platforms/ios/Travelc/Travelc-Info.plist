@@ -38,7 +38,7 @@
     <dict>
       <key>NSExceptionDomains</key>
       <dict>
-        <key>online.travelcompositor.com</key>
+        <key>safarbile.com</key>
         <dict/>
       </dict>
       <key>NSAllowsArbitraryLoads</key>

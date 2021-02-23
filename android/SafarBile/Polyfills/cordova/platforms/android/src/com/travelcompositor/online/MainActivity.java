@@ -17,7 +17,7 @@
        under the License.
  */
 
-package online.travelcompositor.com;
+package safarbile.com;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

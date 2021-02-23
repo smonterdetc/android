@@ -35,13 +35,13 @@
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
-    <content src="https://online.travelcompositor.com/home" />
+    <content src="https://safarbile.com/home" />
     <access origin="*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <allow-navigation hap-rule="yes" href="https://online.travelcompositor.com/*" />
+    <allow-navigation hap-rule="yes" href="https://safarbile.com/*" />
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <preference name="AllowInlineMediaPlayback" value="false" />
