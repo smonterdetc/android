@@ -43,13 +43,13 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "travelonegroup.com"
+            "PACKAGE_NAME": "safarbile.com"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "travelonegroup.com"
+            "PACKAGE_NAME": "safarbile.com"
         },
         "cordova-plugin-hostedwebapp": {
-            "PACKAGE_NAME": "travelonegroup.com"
+            "PACKAGE_NAME": "safarbile.com"
         }
     },
     "dependent_plugins": {},

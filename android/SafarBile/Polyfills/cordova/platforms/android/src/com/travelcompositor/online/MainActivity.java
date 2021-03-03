@@ -17,7 +17,7 @@
        under the License.
  */
 
-package travelonegroup.com;
+package safarbile.com;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
