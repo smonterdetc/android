@@ -1,0 +1,5 @@
+org.apache.cordova
+int drawable ic_launcher_background 0x7f090001
+int mipmap ic_launcher 0x7f110001
+int mipmap ic_launcher_foreground 0x7f110002
+int mipmap ic_launcher_round 0x7f110003
