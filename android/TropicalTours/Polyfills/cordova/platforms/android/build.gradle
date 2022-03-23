@@ -33,7 +33,7 @@ buildscript {
     // http://tools.android.com/tech-docs/new-build-system/version-compatibility
     // and https://issues.apache.org/jira/browse/CB-8143
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.0.1'
+        classpath 'com.android.tools.build:gradle:7.1.2'
     }
    }
 
@@ -42,9 +42,16 @@ repositories {
     mavenCentral()
 }
 
-task wrapper(type: Wrapper) {
-    gradleVersion = '2.8'
+allprojects {
+    repositories {
+        google() // and here
+        jcenter()
+    }
 }
+
+//wrapper(type: Wrapper) {
+//    gradleVersion = '2.8'
+//}
 
 // Configuration properties. Set these via environment variables, build-extras.gradle, or gradle.properties.
 // Refer to: http://www.gradle.org/docs/current/userguide/tutorial_this_and_that.html
@@ -112,7 +119,7 @@ if (ext.cdvReleaseSigningPropertiesFile == null && file('release-signing.propert
 // Cast to appropriate types.
 ext.cdvBuildMultipleApks = cdvBuildMultipleApks == null ? false : cdvBuildMultipleApks.toBoolean();
 ext.cdvMinSdkVersion = cdvMinSdkVersion == null ? null : Integer.parseInt('' + cdvMinSdkVersion)
-ext.cdvVersionCode = 31
+ext.cdvVersionCode = 17
 
 def computeBuildTargetName(debugBuild) {
     def ret = 'assemble'
@@ -134,7 +141,7 @@ cdvBuildRelease.dependsOn {
     return computeBuildTargetName(false)
 }
 
-task cdvPrintProps << {
+task cdvPrintProps doLast {
     println('cdvCompileSdkVersion=' + cdvCompileSdkVersion)
     println('cdvBuildToolsVersion=' + cdvBuildToolsVersion)
     println('cdvVersionCode=' + cdvVersionCode)
@@ -177,6 +184,7 @@ android {
     defaultConfig {
         versionCode cdvVersionCode ?: Integer.parseInt("" + privateHelpers.extractIntFromManifest("versionCode") + "2")
         applicationId privateHelpers.extractStringFromManifest("package")
+        minSdkVersion 30
 
         if (cdvMinSdkVersion != null) {
             minSdkVersion cdvMinSdkVersion
@@ -241,11 +249,11 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: '*.jar')
+    implementation fileTree(dir: 'libs', include: '*.jar')
     // SUB-PROJECT DEPENDENCIES START
     //debugCompile project(path: "CordovaLib", configuration: "debug")
     //releaseCompile project(path: "CordovaLib", configuration: "release")
-    compile project(':CordovaLib')
+    implementation project(':CordovaLib')
     // SUB-PROJECT DEPENDENCIES END
 }
 
