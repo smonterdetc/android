@@ -15,8 +15,6 @@
         <param name="ios-package" value="CDVGestureHandler" />
         <param name="onload" value="true" />
     </feature>
-    <allow-intent href="http://*/*" />
-    <allow-intent href="https://*/*" />
     <feature name="NetworkStatus">
         <param name="ios-package" value="CDVConnection" />
         <param name="onload" value="true" />
@@ -24,9 +22,6 @@
     <feature name="HostedWebApp">
         <param name="ios-package" value="CDVHostedWebApp" />
         <param name="onload" value="true" />
-    </feature>
-    <feature name="NetworkStatus">
-        <param name="ios-package" value="CDVConnection" />
     </feature>
     <name>Travelc</name>
     <description>
@@ -42,6 +37,7 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <allow-navigation hap-rule="yes" href="https://online.travelcompositor.com/*" />
+    <allow-navigation href="*" />
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <preference name="AllowInlineMediaPlayback" value="false" />

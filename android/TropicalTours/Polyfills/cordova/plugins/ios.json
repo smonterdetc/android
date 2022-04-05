@@ -1,0 +1,15 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-cleartext": {
+      "PACKAGE_NAME": "com.travelcompositor.online"
+    }
+  },
+  "dependent_plugins": {}
+}

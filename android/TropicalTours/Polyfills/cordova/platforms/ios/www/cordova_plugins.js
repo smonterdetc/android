@@ -24,6 +24,14 @@ module.exports = [
         "clobbers": [
             "hostedwebapp"
         ]
+    },
+    {
+        "file": "plugins/cordova-plugin-cleartext/www/CordovaPluginsCleartext.js",
+        "id": "cordova-plugin-cleartext.CordovaPluginsCleartext",
+        "pluginId": "cordova-plugin-cleartext",
+        "clobbers": [
+            "cordova.plugins.CordovaPluginsCleartext"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -31,7 +39,8 @@ module.exports.metadata =
 {
     "cordova-plugin-whitelist": "1.3.3",
     "cordova-plugin-network-information": "2.0.1",
-    "cordova-plugin-hostedwebapp": "0.3.1"
+    "cordova-plugin-hostedwebapp": "0.3.1",
+    "cordova-plugin-cleartext": "1.0.0"
 }
 // BOTTOM OF METADATA
 });

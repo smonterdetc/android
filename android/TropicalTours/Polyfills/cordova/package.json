@@ -1,0 +1,10 @@
+{
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-cleartext": {}
+    }
+  },
+  "devDependencies": {
+    "cordova-plugin-cleartext": "^1.0.0"
+  }
+}
